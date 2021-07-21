@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ARKIT Solutions Pvt Ltd as Lead-IT Infrastructre.
 - 🌱 I’m currently learning Kuberneties, Container Technologies and Cloud
 - 👯 I’m looking to collaborate on Tech Events
-- 🤔 I’m looking for more subscribers to [Techarkit](https://www.youtube.com/Techarkit?sub_confirmation=1)
+- 🤔 I’m looking for more subscribers to [Techarkit Youtube Channel](https://www.youtube.com/Techarkit?sub_confirmation=1)
 - 💬 Ask me about Linux, Shell Scripting, SAN, NAS, DAS, Nagios, Ansible and AWS Cloud
 - 📫 How to reach me: aravikumar48@gmail.com
 - 😄 Pronouns: Ravi
