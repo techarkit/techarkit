@@ -9,8 +9,7 @@
 - 📫 How to reach me: aravikumar48@gmail.com
 - 😄 Pronouns: Ravi
 
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (https://twitter.com/aravikumar48)
+- [1.2]: http://i.imgur.com/wWzX9uB.png (https://twitter.com/aravikumar48)
 [2.2]: http://i.imgur.com/fep1WsG.png (https://www.facebook.com/aravikumar489)
 [4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
 [5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
