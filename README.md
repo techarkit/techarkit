@@ -9,4 +9,4 @@
 - 📫 How to reach me: aravikumar48@gmail.com
 - 😄 Pronouns: Ravi
 
-## [Facebook](https://www.facebook.com/Linuxarkit/) | [Email List](https://feedburner.google.com/fb/a/mailverify?uri=arkit) |  [Linkedin](https://in.linkedin.com/in/ravi-kumar-94530121) | [Twitter](https://twitter.com/aravikumar48) | [Youtube](https://www.youtube.com/Techarkit?sub_confirmation=1) | [WhatsApp](http://bit.ly/wappg) | [Telegram](http://bit.ly/linux-telegram) | [Reddit](http://bit.ly/redditark) | [Tumblr](https://www.tumblr.com/blog/aravikumar48)
+## [Facebook](https://www.facebook.com/Linuxarkit/) | [Email List](https://feedburner.google.com/fb/a/mailverify?uri=arkit) |  [Linkedin](https://in.linkedin.com/in/aravikumar48) | [Twitter](https://twitter.com/aravikumar48) | [Youtube](https://www.youtube.com/Techarkit?sub_confirmation=1) | [WhatsApp](http://bit.ly/wappg) | [Telegram](http://bit.ly/linux-telegram) | [Reddit](http://bit.ly/redditark) | [Tumblr](https://www.tumblr.com/blog/aravikumar48)
